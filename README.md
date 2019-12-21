@@ -5,7 +5,7 @@ Realizar una clase que administre una agenda. Se debe almacenar para cada contac
 
 -   Añadir contacto
 -   Lista de contactos
--   Buscar contacto 
+-   Buscar contacto
 -   Editar contacto
 -   Eliminar contacto
 -   Cerrar agenda
@@ -39,3 +39,4 @@ Realizar una clase que administre una agenda. Se debe almacenar para cada contac
 -	For
 -	While
 -	POO
+-   Excepcions
